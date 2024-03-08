@@ -83,3 +83,6 @@ extend-exclude = [
 
 [tool.setuptools]
 packages = ["libs/langchain/"]
+
+[project]
+name = "langchain"
