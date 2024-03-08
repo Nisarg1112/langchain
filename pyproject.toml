@@ -83,3 +83,7 @@ extend-exclude = [
 
 [tool.setuptools]
 py-modules = []
+
+[project]
+name = "langchain-monorepo"
+dynamic = ["version", "description"]
