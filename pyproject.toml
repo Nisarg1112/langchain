@@ -86,3 +86,4 @@ packages = ["libs/langchain/"]
 
 [project]
 name = "langchain"
+dynamic =["version"]
