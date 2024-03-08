@@ -85,5 +85,5 @@ extend-exclude = [
 py-modules = []
 
 [project]
-name = "langchain-monorepo"
+name = "langchain"
 dynamic = ["version"]
